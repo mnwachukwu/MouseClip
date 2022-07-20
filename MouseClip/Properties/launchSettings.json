@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MouseClip": {
+      "commandName": "Project"
+    },
+    "OblivionMouseClip": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Oblivion\""
+    }
+  }
+}
