@@ -81,7 +81,7 @@ namespace MouseClip
         {
             if (string.IsNullOrEmpty(processName))
             {
-                throw new ArgumentNullException("processName");
+                return false;
             }
 
             var runningProcesses = Process.GetProcessesByName(processName);
