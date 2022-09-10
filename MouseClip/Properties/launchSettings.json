@@ -6,6 +6,10 @@
     "OblivionMouseClip": {
       "commandName": "Project",
       "commandLineArgs": "\"Oblivion\""
+    },
+    "SoTClip": {
+      "commandName": "Project",
+      "commandLineArgs": "\"SoTGame\""
     }
   }
 }
